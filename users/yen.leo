@@ -246,7 +246,7 @@ apply broader style changes, like switching the page background.
 <t tx="amd.20161004083800.2">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2016 Fall 電腦輔助設計實習課程
+40423210電腦輔助設計實習課程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -341,7 +341,7 @@ apply broader style changes, like switching the page background.
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2016Fall CADPB 課程&lt;/h1&gt;
+    &lt;h1&gt;40423210 CADPB 課程&lt;/h1&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
     &lt;small&gt;
@@ -455,7 +455,7 @@ make.start()
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CADPB 課程
+<t tx="amd.20161004095719.2"># 40423210 CADPB 課程
 
 ### THE HTML PRESENTATION FRAMEWORK
 
