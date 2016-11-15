@@ -302,6 +302,20 @@ init_mathjax();
             <article>
                 <h2><a href="../20161021w6.html">20161021W6</a></h2>
                 <div class="summary"><h2>解決子模組在對應上的問題</h2>
+
+<p>因為之前的2016fallcadp_hw倉儲少複製了一些東西,刪除舊的倉儲後,重新做一個和之前倉儲同名的2016fallcadp_hw倉儲,但是在小組倉儲所連結的子模組,抓不到新倉儲連結,所以我們需要重新加入一次組員倉儲的資料</p>
+
+<p>以為只要再輸入一次指令就可以讓程式抓最新的子模組近來</p>
+
+<pre>
+Y:\tmp\2016fallcadp_bg6>git submodule add -b gh-pages https://github.com/40423226/2016fallcadp_hw.git 40423226
+'40423226' already exists in the index
+</pre>
+
+<p>但是程式告訴我們40423226的子模組已經在裡面,所以在試著用git rm 40423226 -f 來刪除存放該子模組資料的資料夾,然後再git submodule add的一次組員倉儲的資料</p>
+
+<pre>
+Y:\tmp\2016fallcadp_bg6>git submodule add -b gh-pages https://github.com/40423226 ...</pre>
                     <a class="btn btn-default btn-xs" href="../20161021w6.html">more ...</a>
                 </div>
             </article>
@@ -309,6 +323,7 @@ init_mathjax();
             <article>
                 <h2><a href="../20161014w5.html">20161014W5</a></h2>
                 <div class="summary"><p>初步認識SolveSpace<p>
+<iframe src="https://player.vimeo.com/video/190087085" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                     <a class="btn btn-default btn-xs" href="../20161014w5.html">more ...</a>
                 </div>
             </article>
