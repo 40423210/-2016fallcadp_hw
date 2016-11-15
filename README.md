@@ -1,5 +1,5 @@
-# 2016fallcadpb
-40423210 個人倉儲
+#2016fallcadp_hw
 
-網誌:https://mdecourse.github.io/2016fallcadpb/g7/40423210
+簡報: https://40423210.github.io/2016fallcadp_hw
 
+網址: https://40423210.github.io/2016fallcadp_hw/blog/
